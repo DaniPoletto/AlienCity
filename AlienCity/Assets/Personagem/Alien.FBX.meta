@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 99778b51ae360da4489a3ed6b51dbda8
+timeCreated: 1461853867
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: antbracoD
+    100004: antbracoL
+    100006: Arma
+    100008: Arma 1
+    100010: bracoD
+    100012: bracoL
+    100014: cabeca
+    100016: canelaD
+    100018: canelaL
+    100020: Cano
+    100022: cintura
+    100024: coxaD
+    100026: coxaL
+    100028: ind1D
+    100030: ind1L
+    100032: ind2D
+    100034: ind2L
+    100036: MalhaAlien
+    100038: maoD
+    100040: maoL
+    100042: med1D
+    100044: med1L
+    100046: med2D
+    100048: med2L
+    100050: min1D
+    100052: min1L
+    100054: min2D
+    100056: min2L
+    100058: ombroD
+    100060: ombroL
+    100062: peD
+    100064: peito
+    100066: peL
+    100068: pol1D
+    100070: pol1L
+    100072: pol2D
+    100074: pol2L
+    400000: //RootNode
+    400002: antbracoD
+    400004: antbracoL
+    400006: Arma
+    400008: Arma 1
+    400010: bracoD
+    400012: bracoL
+    400014: cabeca
+    400016: canelaD
+    400018: canelaL
+    400020: Cano
+    400022: cintura
+    400024: coxaD
+    400026: coxaL
+    400028: ind1D
+    400030: ind1L
+    400032: ind2D
+    400034: ind2L
+    400036: MalhaAlien
+    400038: maoD
+    400040: maoL
+    400042: med1D
+    400044: med1L
+    400046: med2D
+    400048: med2L
+    400050: min1D
+    400052: min1L
+    400054: min2D
+    400056: min2L
+    400058: ombroD
+    400060: ombroL
+    400062: peD
+    400064: peito
+    400066: peL
+    400068: pol1D
+    400070: pol1L
+    400072: pol2D
+    400074: pol2L
+    4300000: MalhaAlien
+    4300002: Arma
+    7400000: Corrida
+    7400002: Pulo
+    7400004: Parado
+    7400006: Morte
+    9500000: //RootNode
+    13700000: Arma
+    13700002: MalhaAlien
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Corrida
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arma
+        weight: 1
+      - path: cintura
+        weight: 1
+      - path: cintura/coxaD
+        weight: 1
+      - path: cintura/coxaD/canelaD
+        weight: 1
+      - path: cintura/coxaD/canelaD/peD
+        weight: 1
+      - path: cintura/coxaL
+        weight: 1
+      - path: cintura/coxaL/canelaL
+        weight: 1
+      - path: cintura/coxaL/canelaL/peL
+        weight: 1
+      - path: cintura/peito
+        weight: 1
+      - path: cintura/peito/cabeca
+        weight: 1
+      - path: cintura/peito/ombroD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/Arma 1
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/Arma 1/Cano
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/ind1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/ind1D/ind2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/med1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/med1D/med2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/min1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/min1D/min2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/pol1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/pol1D/pol2D
+        weight: 1
+      - path: cintura/peito/ombroL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/ind1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/ind1L/ind2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/med1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/med1L/med2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/min1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/min1L/min2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/pol1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/pol1L/pol2L
+        weight: 1
+      - path: MalhaAlien
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Pulo
+      takeName: Take 001
+      firstFrame: 21
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arma
+        weight: 1
+      - path: cintura
+        weight: 1
+      - path: cintura/coxaD
+        weight: 1
+      - path: cintura/coxaD/canelaD
+        weight: 1
+      - path: cintura/coxaD/canelaD/peD
+        weight: 1
+      - path: cintura/coxaL
+        weight: 1
+      - path: cintura/coxaL/canelaL
+        weight: 1
+      - path: cintura/coxaL/canelaL/peL
+        weight: 1
+      - path: cintura/peito
+        weight: 1
+      - path: cintura/peito/cabeca
+        weight: 1
+      - path: cintura/peito/ombroD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/Arma 1
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/Arma 1/Cano
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/ind1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/ind1D/ind2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/med1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/med1D/med2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/min1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/min1D/min2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/pol1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/pol1D/pol2D
+        weight: 1
+      - path: cintura/peito/ombroL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/ind1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/ind1L/ind2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/med1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/med1L/med2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/min1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/min1L/min2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/pol1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/pol1L/pol2L
+        weight: 1
+      - path: MalhaAlien
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Parado
+      takeName: Take 001
+      firstFrame: 66
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arma
+        weight: 1
+      - path: cintura
+        weight: 1
+      - path: cintura/coxaD
+        weight: 1
+      - path: cintura/coxaD/canelaD
+        weight: 1
+      - path: cintura/coxaD/canelaD/peD
+        weight: 1
+      - path: cintura/coxaL
+        weight: 1
+      - path: cintura/coxaL/canelaL
+        weight: 1
+      - path: cintura/coxaL/canelaL/peL
+        weight: 1
+      - path: cintura/peito
+        weight: 1
+      - path: cintura/peito/cabeca
+        weight: 1
+      - path: cintura/peito/ombroD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/Arma 1
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/Arma 1/Cano
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/ind1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/ind1D/ind2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/med1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/med1D/med2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/min1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/min1D/min2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/pol1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/pol1D/pol2D
+        weight: 1
+      - path: cintura/peito/ombroL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/ind1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/ind1L/ind2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/med1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/med1L/med2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/min1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/min1L/min2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/pol1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/pol1L/pol2L
+        weight: 1
+      - path: MalhaAlien
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Morte
+      takeName: Take 001
+      firstFrame: 441
+      lastFrame: 466
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arma
+        weight: 1
+      - path: cintura
+        weight: 1
+      - path: cintura/coxaD
+        weight: 1
+      - path: cintura/coxaD/canelaD
+        weight: 1
+      - path: cintura/coxaD/canelaD/peD
+        weight: 1
+      - path: cintura/coxaL
+        weight: 1
+      - path: cintura/coxaL/canelaL
+        weight: 1
+      - path: cintura/coxaL/canelaL/peL
+        weight: 1
+      - path: cintura/peito
+        weight: 1
+      - path: cintura/peito/cabeca
+        weight: 1
+      - path: cintura/peito/ombroD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/Arma 1
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/Arma 1/Cano
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/ind1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/ind1D/ind2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/med1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/med1D/med2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/min1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/min1D/min2D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/pol1D
+        weight: 1
+      - path: cintura/peito/ombroD/bracoD/antbracoD/maoD/pol1D/pol2D
+        weight: 1
+      - path: cintura/peito/ombroL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/ind1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/ind1L/ind2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/med1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/med1L/med2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/min1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/min1L/min2L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/pol1L
+        weight: 1
+      - path: cintura/peito/ombroL/bracoL/antbracoL/maoL/pol1L/pol2L
+        weight: 1
+      - path: MalhaAlien
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
