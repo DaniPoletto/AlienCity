@@ -6,5 +6,7 @@ Está fase foi desenvolvida como exercício do curso de Desensolvimento de Jogos
 
 Para movimentar o personagem use as setas e enter para pular. 
 
+![Jogo](https://github.com/DaniPoletto/AlienCity/blob/master/img/jogo.gif)
+
 Outros jogos feitos com Scratch também fazem parte de outras atividades promovidas pelo curso:
 https://scratch.mit.edu/studios/4460822
